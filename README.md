@@ -1,5 +1,6 @@
 X-Coin
 ======
+**[This is an experiment, great if we get it right else cool] **
 Brainstorming for a better crypto currency. 
 
 Why
